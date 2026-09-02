@@ -1,0 +1,4 @@
+# 1 array 可以直接  `相等` 判断
+  array<int, 26> p, s;
+  p == s;
+
